@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sonali Rohit
 - 👀 I’m interested in web development and software development
 - 🌱 I’m currently learning java,c++,html,python
-- �
 - 📫 How to reach me @sonali0306
 
 <!---
